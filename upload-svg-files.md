@@ -14,4 +14,4 @@ function add_file_types_to_uploads( $file_types ) {
 add_filter('upload_mimes', 'add_file_types_to_uploads');
 ```
 
-> Note: this code was taked from [Cómo subir a WordPress archivos SVG: 2 métodos seguros](https://www.hostinger.co/tutoriales/cargar-en-wordpress-svg){:target="_blank"}
+> Note: this code was taked from [Cómo subir a WordPress archivos SVG: 2 métodos seguros](https://www.hostinger.co/tutoriales/cargar-en-wordpress-svg)
